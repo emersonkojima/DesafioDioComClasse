@@ -27,7 +27,7 @@ class personagem{
 }
 
 
-let char = new personagem("Mario", "34", "ni33nja")
+let char = new personagem("Mario", "34", "monge")
 
 char.atacar()
 
